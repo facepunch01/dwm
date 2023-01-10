@@ -1,2 +1,4 @@
 echo -e "\033[38;2;248;248;242;48;2;98;114;164m $(date) \e[0m" this will do this 
 echo -e "\033[38;2;[r;g;b;](fg)48;2;[r;g;bm](bg) $(date) \e[0m"
+echo -e "\033[38;2;40;42;54;48;2;255;121;198m $(date +'%I:%H %p') \e[0m"
+Is  the colors i want
