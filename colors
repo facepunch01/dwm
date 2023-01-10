@@ -1,0 +1,2 @@
+echo -e "\033[38;2;248;248;242;48;2;98;114;164m $(date) \e[0m" this will do this 
+echo -e "\033[38;2;[r;g;b;](fg)48;2;[r;g;bm](bg) $(date) \e[0m"
